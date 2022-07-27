@@ -5,4 +5,4 @@ layout: post
 categories: media
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/pixo.jpg)
+![PIXO](https://amadkayani.github.io/pixo.jpg)
