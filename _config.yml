@@ -18,8 +18,8 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: About}
   - {file: "\amad.pdf", title: CV}
-  - {file: "papers.md", title: Papers}
-  - {file: "diagrams.md", title: Diagrams}
+  - {file: "papers and articles.md", title: Papers and Articles}
+  - {file: "diagrams.md", title: Diagrams and Visuals}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:amad.kayani@outlook.com"}
