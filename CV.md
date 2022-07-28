@@ -1,8 +1,6 @@
 ---
-layout: page
-
+layout: default
 title: CV
-
 ---
 
 ### Education 
