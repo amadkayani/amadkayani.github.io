@@ -1,9 +1,10 @@
 ---
 layout: default
 title: CV
+---
 
 
-### Education 
+### Higher Education 
 
 MSc Sustainable Energy Systems, The University of Edinburgh (2020)
 
@@ -35,4 +36,4 @@ Spring Recognition Award for exceptional performance, Historic England (2022)
 
 Full MSc scholarship award, The Aziz Foundation (2019)
 
----
+
