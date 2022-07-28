@@ -33,4 +33,6 @@ Retrofit in Heritage Founding Committee Member, CIBSE
 
 ## Honours and Awards
 
+Spring Recognition Award for exceptional performance, Historic England (2022)
+
 Full MSc scholarship award, The Aziz Foundation (2019)
