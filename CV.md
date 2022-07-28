@@ -31,7 +31,7 @@ RdSAP Advisory Group Member, BRE
 
 Retrofit in Heritage Founding Committee Member, CIBSE 
 
-## Honours and Awards
+### Honours and Awards
 
 Spring Recognition Award for exceptional performance, Historic England (2022)
 
