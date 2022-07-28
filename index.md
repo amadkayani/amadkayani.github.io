@@ -1,5 +1,5 @@
 ---
-title:  ""
+title:  "Amad Kayani BEng Msc CEng"
 mathjax: true
 layout: post
 categories: media
