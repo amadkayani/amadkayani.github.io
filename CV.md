@@ -33,4 +33,4 @@ Retrofit in Heritage Founding Committee Member, CIBSE
 
 ## Honours and Awards
 
-Full MSc scholarship recipient, The Aziz Foundation (2019)
+Full MSc scholarship award, The Aziz Foundation (2019)
