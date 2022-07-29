@@ -2,6 +2,6 @@
 
 layout: page
 
-title: Visuals
+title: Visual Portfolio
 
 ---
