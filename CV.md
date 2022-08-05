@@ -13,11 +13,11 @@ BEng (Hons) Mechanical Engineering, The University of Edinburgh (2016)
 
 ### Professional Roles Held
 
-Building Services Engineer, Historic England (2020 - Present)
+Building Services Engineer, [Historic England](https://historicengland.org.uk/) (2020 - Present)
 
-Building Environment and Services Engineer, Skelly and Couch (2017 - 2019)
+Building Environment and Services Engineer, [Skelly and Couch](https://www.skellyandcouch.com/) (2017 - 2019)
 
-Graduate Mechanical Engineer, Foster + Partners (2016 - 2017)
+Graduate Mechanical Engineer, [Foster + Partners](https://www.fosterandpartners.com/) (2016 - 2017)
 
 ### Professional Memberships and Working Groups
 
