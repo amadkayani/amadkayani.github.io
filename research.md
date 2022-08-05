@@ -6,7 +6,7 @@ title: "Research Output"
 ---
 
 
-+ 2022/04/22 | **Webinar**: '[Assessing Future Summertime Overheating Risk in Historic Buildings](https://historicengland.org.uk/services-skills/training-skills/online-training/webinars/recordings/webinar-on-climate-change-adaptation-assessing-future-summertime-overheating-risk-in-historic-buildings-part-2/)' (part 2) - Climate Change Adaptation 
++ 2022/04/22  **Webinar**: '[Assessing Future Summertime Overheating Risk in Historic Buildings](https://historicengland.org.uk/services-skills/training-skills/online-training/webinars/recordings/webinar-on-climate-change-adaptation-assessing-future-summertime-overheating-risk-in-historic-buildings-part-2/)' (part 2) - Climate Change Adaptation. 
 
 + 2022/03/18 | **Article**: '[Overheating in Historic Buildings](https://www.paperturn-view.com/?pid=MjM239920)', Conservation and Heritage Journal, Issue 33, 2022
 
