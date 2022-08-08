@@ -29,7 +29,7 @@ LEED Accredited Professional in Building Design and Construction (2017)
 
 RdSAP Advisory Group Member, BRE (2022)
 
-(Retrofit in Heritage)[https://www.cibsejournal.com/cibse-news/cibse-launches-new-retrofit-group/] Founding Committee Member, CIBSE (2022)
+[Retrofit in Heritage](https://www.cibsejournal.com/cibse-news/cibse-launches-new-retrofit-group/) Founding Committee Member, CIBSE (2022)
 
 ### Honours and Awards
 
