@@ -1,18 +1,7 @@
 
 
-In assessing the benefits of these low and zero carbon energy sources for historic buildings you will need to consider:
+As we move towards a low carbon future, organisational resilience has increasingly encompassed ‘green’ thinking. Many organisations realise that carbon footprint is an important stakeholder concern and this can impact their overall value proposition to end users. For assets that consume energy, and therefore emit carbon dioxide, questions arise around the long-term decarbonisation of assets and the cost incurred to this end. 
 
-- Does it suit the particular building and use?
-- What are the carbon reduction benefits?
-- Will the potential savings exceed the whole-life energy costs?
-- Can the system be fitted safely with no significant adverse impact on the building and its historic fabric
-- What will be the visual impact on the setting of the building or heritage asset?
-- Are there any planning controls that affect your choice and positioning of the installation?
+Typical carbon planning models observe operational carbon as an annual metric that is paid back over many years. This delivers a real carbon saving every year. This is usually extrapolated to a point in the distant future that projects a cumulative saving. Whilst this is useful is a simplistic back of the envelope calc, it fails to capture what happens in the real world, which is value inflation. 
 
-These technologies, particularly those used for generating heat, are more effective within buildings with a highly energy efficient fabric, and where heat demand and loss have been reduced to a minimum.
-
-The output of many of these energy supplies can fluctuate. They will often need to be balanced with electricity supplied from the National Grid, importing or exporting as required.
-
-Apart from the initial set up costs, operation and maintenance costs, and de-commissioning of redundant systems need to be considered. These can be higher than for conventional supplies. Some systems can also have relatively short lifespans which can have implications for life-cycle value.
-
-[Guidance Webpage](https://historicengland.org.uk/advice/technical-advice/energy-efficiency-and-historic-buildings/low-and-zero-carbon-technologies/)
+The value of one tonne of carbon emitted today is intuitively different to the value of carbon emitted in 30 years. It is not easy to predict whether this value will be higher or lower, but the argument is predicated on the fact that the usefulness of saving that one tonne of carbon will inevitably change over a long enough time frame. The purpose of this paper is not to predict the real value of saving one tonne of carbon at various points in the future. This would be an impossible task that is highly path dependent. The objective of this is to set out observations over time that account for carbon inflation and carbon deflation, and to observe the differences in observed simplistic payback model.
