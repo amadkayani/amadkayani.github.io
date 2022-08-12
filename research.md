@@ -5,6 +5,7 @@ title: "Research Output"
 
 ---
 
++ 2022/09/13  **Webinar** (UPCOMING): CIBSE Knowledge Share Webinar, Retrofit in Heritage Group
 
 + 2022/04/22  **Webinar**: '[Assessing Future Summertime Overheating Risk in Historic Buildings](https://historicengland.org.uk/services-skills/training-skills/online-training/webinars/recordings/webinar-on-climate-change-adaptation-assessing-future-summertime-overheating-risk-in-historic-buildings-part-2/)' (part 2) - Climate Change Adaptation. 
 
