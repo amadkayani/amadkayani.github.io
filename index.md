@@ -10,7 +10,7 @@ I am a Building Services Engineer within the [Technical Conservation Team](https
 I am a Chartered member of the [Institution of Mechanical Engineers](https://www.imeche.org) and I occasionally supervise student research projects at [The University of Edinburgh](https://www.eng.ed.ac.uk) as part of the MSc in [Sustainable Energy Systems](https://www.eng.ed.ac.uk/studying/postgraduate/msc-taught/msc-sustainable-energy-systems).
 
 
-This website documents my ongoing study within this evolving field - all opinions expressed are my own. 
+This website documents my ongoing study within the evolving and overlapping fields of energy and the built environment - all opinions expressed are my own. 
 
 
 ![IES](https://amadkayani.github.io/IES.PNG)
