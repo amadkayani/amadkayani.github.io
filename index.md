@@ -13,4 +13,4 @@ I am a Chartered member of the [Institution of Mechanical Engineers](https://www
 This website documents my ongoing study within this evolving field - all opinions expressed are my own. 
 
 
-![PIXO](https://amadkayani.github.io/pixo.jpg)
+![IES](https://amadkayani.github.io/IES.png)
