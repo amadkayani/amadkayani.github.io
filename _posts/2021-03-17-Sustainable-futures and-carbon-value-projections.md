@@ -1,4 +1,7 @@
-
+---
+title: "Sustainable-futures and-carbon-value-projections"
+layout: post
+---
 
 As we move towards a low carbon future, organisational resilience has increasingly encompassed ‘green’ thinking. Many organisations realise that carbon footprint is an important stakeholder concern and this can impact their overall value proposition to end users. For assets that consume energy, and therefore emit carbon dioxide, questions arise around the long-term decarbonisation of assets and the cost incurred to this end. 
 
