@@ -1,7 +1,14 @@
 
+---
+title: "Listed Buildings and Renewable Energy Technologies"
+layout: post
+---
+
 Listed building was introduced in 1882 to preserve and protect historic buildings. It was designed to respond to economic pressures that would otherwise see historic buildings altered, adapted or demolished. In light of contemporary challenges such as the climate crisis, it seems that listing can be a hindrance to delivering sustainable energy security to historic buildings. It begs a broader question around - how much is the climate crisis an existential threat to listed buildings - and does this outweigh the desire to (subjectively) visually protect them in this way?
 
-## Listed Buildings and Renewable Energy Technologues 
+
+
+## Listed Buildings and Renewable Energy Technologies 
 
 There is a long-standing recognition and understanding of the value of historic buildings to culture, identity and social cohesion. We venerate and celebrate landmarks that are representative of different stages of our history and buildings become cultural artefacts that can capture struggle and aspirations of society.
 
