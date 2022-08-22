@@ -6,7 +6,7 @@ title: Visual Portfolio
 
 ---
 
-![foster](https://amadkayani.github.io/foster.png)
+![foster](https://amadkayani.github.io/foster.PNG)
 
 CFD analysis of HVAC in retail store
 
