@@ -13,4 +13,4 @@ I am a Chartered member of the [Institution of Mechanical Engineers](https://www
 This website documents my ongoing study within the evolving and overlapping fields of energy and the built environment - all opinions expressed are my own. 
 
 
-![FOSTER1](https://amadkayani.github.io/foster1.JPG)
+![FOSTER1](https://amadkayani.github.io/foster1.jpg)
