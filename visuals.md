@@ -16,5 +16,3 @@ title: Visual Portfolio
 
 
 ![cfdp1](https://amadkayani.github.io/cfdp1.png)
-
-![cfdp2](https://amadkayani.github.io/cfdp2.jpg)
