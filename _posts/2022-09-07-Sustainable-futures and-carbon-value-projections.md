@@ -1,5 +1,5 @@
 ---
-title: "Sustainable-futures and-carbon-value-projections"
+title: "Sustainable futures and carbon value projections"
 layout: post
 ---
 
