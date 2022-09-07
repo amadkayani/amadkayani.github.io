@@ -13,7 +13,7 @@ How we quantify ‘usefulness’ of saving carbon is not an easy task, but using
 
 Based on this understanding, this post sets out observations upon carbon payback models on the (a) carbon parity, (b) carbon inflation and (c) carbon deflation. 
 
-###Baseline Scenario: The Carbon Parity Model
+### Baseline Scenario: The Carbon Parity Model
 
 This represents the typical approach to low-carbon decision making. An intervention is made to reduce emissions, by considering the embodied carbon incurred during the intervention and resultant savings per year. Eventually pay-back is achieved after a number of years, that may or may not justify the financial and carbon outlay. The business as usual (BAU) scenario is compared with an arbitrary retrofit scenario that saves annual operational carbon emissions. The following modelling simplifications are made:
 a.	Operational carbon emissions remain consistently as 50 units of CO2 per year.
@@ -25,7 +25,7 @@ c.	Retrofit reduces the operational carbon emissions by 15 units of CO2 consiste
 Observations:
 1.	Pay-back is achieved in Year 19.
  
-The Carbon Inflation Model
+### The Carbon Inflation Model
 
 This model assumes that the real value of carbon will diminish every year by 3%; saving the same tonne of carbon will be 3% less valuable next year in comparison to today.
 
@@ -36,7 +36,7 @@ Observations:
 2.	The benefits delivered from the retrofit diminish year upon year.
   
  
-The Carbon Deflation Model
+### The Carbon Deflation Model
 
 This model assumes that the real value of carbon will increase by every year by 3%; saving the same tonne of carbon will be 3% more valuable next year in comparison to today.
 
@@ -46,7 +46,7 @@ Observations:
 1.	Pay-back is achieved in Year 15, 4 years earlier than the baseline model.
 2.	The benefits delivered from the retrofit increase year upon year.
 
-Concluding Thoughts
+### Concluding Thoughts
 
 If a carbon inflation model is applied – real value of carbon diminishes year on year, then the carbon payback period is prolonged. This would inhibit the potential benefit accrued from a low carbon retrofit as the embodied carbon would take longer to be matched in carbon saving.
 Conversely, the carbon deflation model – real value of carbon increases, then the carbon payback is shortened. This implies that low-carbon interventions can deliver a shorter return on carbon saving. 
