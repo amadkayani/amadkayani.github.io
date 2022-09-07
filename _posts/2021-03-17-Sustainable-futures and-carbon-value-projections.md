@@ -3,6 +3,10 @@ title: "Sustainable-futures and-carbon-value-projections"
 layout: post
 ---
 
+Current low carbon decision-making is based on the assumption that the value of carbon does not change - this fails to capture the essence of the problem, which is urgency.
+
+### Background
+
 As the importance of a low carbon future becomes more widespread, we are seeing (and rightfully so) a shift towards ‘green’ thinking. Not surprisingly, due to the extent of the carbon problem, what this means exactly varies hugely amongst organisations. But most realised that carbon footprint is an important stakeholder concern, which can impact how their end users come to view them.  
 
 Typical carbon planning models discretise operational emissions into different scopes, which is useful for understanding what can be done today and the level of influence an emitter has upon their emission-sources. While this is a useful snapshot in time, metrics such as operational emissions are projected into the future to provide future estimates. Similarly, reductions in carbon emissions, through some sort of intervention, are also extrapolated to demonstrate a cumulative saving in the distant future. All sorts of retrofit decisions are being made on this basis, but it may fail to address the real essence of carbon problem – urgency.
