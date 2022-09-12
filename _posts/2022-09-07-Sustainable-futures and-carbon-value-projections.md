@@ -5,17 +5,19 @@ layout: post
 
 Current low carbon decision-making is based on the assumption that the value of carbon does not change - this fails to capture the essence of the problem, which is urgency.
 
+
 ### Background
 
 As the importance of a low carbon future becomes more widespread, we are seeing (and rightfully so) a shift towards ‘green’ thinking. Not surprisingly, due to the extent of the carbon problem, what this means exactly varies hugely amongst organisations. But most realised that carbon footprint is an important stakeholder concern, which can impact how their end users come to view them.  
 
-Typical carbon planning models discretise operational emissions into different scopes, which is useful for understanding what can be done today and the level of influence an emitter has upon their emission-sources. While this is a useful snapshot in time, metrics such as operational emissions are projected into the future to provide future estimates. Similarly, reductions in carbon emissions, through some sort of intervention, are also extrapolated to demonstrate a cumulative saving in the distant future. All sorts of retrofit decisions are being made on this basis, but it may fail to address the real essence of carbon problem – urgency.
+Robust low carbon retrofit decision should encompass both embodied and operation carbon emissions, with the understanding that embodied carbon emissions are created when work is undertaken. Whilst comparing operational carbon savings with embodied carbon ‘sunk’ at the outset can be a useful way to rationalise long-term sustainability, it may fail to reflect the real essence of the carbon problem, which is environmental urgency.
 
-Once we understand the urgency of reducing carbon emissions it suddenly becomes very clear that the value of one tonne of carbon emitted today is intuitively different to the value of carbon emitted in 30 years. It is not easy to predict whether this value will be higher or lower, but it is based on the understanding that the ‘usefulness’ of saving that one tonne of carbon will inevitably change over a long enough time-frame.
+Once we understand the urgency of reducing carbon emissions, it suddenly becomes very clear that the value of one tonne of carbon emitted today is intuitively different to the value of on tonne emitted in 30 years. It is not easy to predict whether this value will be higher or lower, but it is based on the understanding that the ‘usefulness’ of saving that one tonne of carbon will inevitably change over a long enough time-frame. 
 
-How we quantify ‘usefulness’ of saving carbon is not an easy task, but using metrics we understand well, like currency, may be a good start. Carbon pricing, which assigns a price to one metric tonne of carbon, has come to forefront of policy measures to reduce emissions. This may not just be beneficial for policy but can help us to quantify the impacts of the change in ‘usefulness’ through value inflation and deflation.
+How we quantify ‘usefulness’ of saving carbon is not an easy task, but using metrics we understand well, like inflation for financial value change, may be a good start. This may help us to quantify the impacts of the change in ‘usefulness’ through value inflation and deflation.
 
-Based on this understanding, this post sets out observations upon carbon payback models on the (a) carbon parity, (b) carbon inflation and (c) carbon deflation. 
+Based on this understanding, this short study sets out observations upon carbon payback models on the (a) simple carbon parity model, (b) carbon inflation model and (c) carbon deflation model. 
+
 
 ### Baseline Scenario: The Carbon Parity Model
 
