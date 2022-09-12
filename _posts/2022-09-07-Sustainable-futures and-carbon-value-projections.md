@@ -26,7 +26,7 @@ a.	Operational carbon emissions remain consistently as 50 units of CO2 per year.
 b.	The embodied carbon increases by 200 units of CO2 due to retrofit.
 c.	Retrofit reduces the operational carbon emissions by 15 units of CO2 consistently over the subsequent years.
  
- [IMAGE]
+![figone](https://amadkayani.github.io/figone.PNG)
  
 Observations:
 1.	Pay-back is achieved in Year 19.
@@ -35,7 +35,7 @@ Observations:
 
 This model assumes that the real value of carbon will diminish every year by 3%; saving the same tonne of carbon will be 3% less valuable next year in comparison to today.
 
-[IMAGE]
+![figtwo](https://amadkayani.github.io/figtwo.PNG)
 
 Observations:
 1.	Pay-back is achieved in Year 21, 2 years after the baseline model.
@@ -46,7 +46,7 @@ Observations:
 
 This model assumes that the real value of carbon will increase by every year by 3%; saving the same tonne of carbon will be 3% more valuable next year in comparison to today.
 
-[IMAGE]
+![figthree](https://amadkayani.github.io/figthree.PNG)
  
 Observations:
 1.	Pay-back is achieved in Year 15, 4 years earlier than the baseline model.
