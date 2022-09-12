@@ -1,4 +1,3 @@
-
 ---
 title: "Listed Buildings and Renewable Energy Technologies"
 layout: post
