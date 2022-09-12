@@ -1,6 +1,4 @@
 
-
-
 Heritage is often seen as a barrier to low-carbon technologies, however, the repurposing of historic water mills may provide hydro energy instracture that would otherwise be financially unviable.
 
 
