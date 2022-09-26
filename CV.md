@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Amad Kayani CV"
+title: "Amad Kayani CEng, MIMechE, MSc, BEng (Hons), LEED AP (BD+C), CIBSE LCC"
 
 ---
 
