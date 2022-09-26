@@ -27,6 +27,8 @@ Graduate Mechanical Engineer, [Foster + Partners](https://www.fosterandpartners.
 
 UK Engineering Council, Chartered Engineer (2021)
 
+Member of IMechE (2021)
+
 CIBSE Low Carbon Consultant (2021)
 
 LEED Accredited Professional in Building Design and Construction (2017)
