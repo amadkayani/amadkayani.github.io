@@ -16,11 +16,11 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "CV.md", title: | CV |}
-  - {file: "publications.md", title: | Publications |}
+  - {file: "CV.md", title: CV}
+  - {file: "publications.md", title: Publications}
   
-  - {file: "talks.md", title: | Talks |}
-  - {file: "portfolio.md", title: | Portfolio |}
+  - {file: "talks.md", title: Talks}
+  - {file: "portfolio.md", title: Portfolio}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
