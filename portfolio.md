@@ -2,8 +2,7 @@
 
 layout: page
 
-title: Visual Portfolio
-
+title: 
 ---
 
 ![IES](https://amadkayani.github.io/IES.PNG)
