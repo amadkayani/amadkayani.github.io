@@ -1,6 +1,6 @@
-title: "Building Climate Adaptation" 
+title: "Sustainability and Building Resilience" 
 author: "Amad Kayani"
-description: "A.Kayani, 2022"
+description: "A.Kayani, 2023"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,8 +17,8 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "CV.md", title: CV}
-  - {file: "research.md", title: Research}
-  - {file: "blog.md", title: Blog}
+  - {file: "research.md", title: Publications}
+  - {file: "blog.md", title: Talks}
   - {file: "visuals.md", title: Portfolio}
 
 
