@@ -9,7 +9,7 @@ Amad Kayani is an a Senior Building Services Research Engineer within the [Techn
 
 Chartered Member of the [Institution of Mechanical Engineers](https://www.imeche.org) and part-time research supervisor at [The University of Edinburgh](https://www.eng.ed.ac.uk).
 
-This website documents his ongoing work within the evolving and overlapping fields of energy and the built environment - all opinions expressed belong to the author. 
+This website documents his ongoing work within the evolving and overlapping fields of urban sustainability and building resilience - all opinions expressed belong to the author. 
 
 
 
