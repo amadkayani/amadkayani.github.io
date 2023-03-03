@@ -1,16 +1,15 @@
 ---
-title:  "Amad Kayani, CEng"
+title:  ""
 mathjax: true
 layout: post
 categories: media
 ---
 
-I am a Building Services Engineer within the [Technical Conservation Team](https://historicengland.org.uk/services-skills/our-planning-services/charter/our-technical-conservation-expertise/) at [Historic England](https://historicengland.org.uk). Published author and regular public speaker with significant contributions to shaping UK energy policy - I develop research projects related to climate resilience of buildings and disseminate findings through articles, technical guidance and webinars. 
+Amad Kayani is an a Senior Building Services Research Engineer within the [Technical Conservation Team](https://historicengland.org.uk/services-skills/our-planning-services/charter/our-technical-conservation-expertise/) at [Historic England](https://historicengland.org.uk). 
 
-I am a Chartered member of the [Institution of Mechanical Engineers](https://www.imeche.org) and I am invited to supervise student research projects at [The University of Edinburgh](https://www.eng.ed.ac.uk) as part of the MSc in [Sustainable Energy Systems](https://www.eng.ed.ac.uk/studying/postgraduate/msc-taught/msc-sustainable-energy-systems).
+Chartered Member of the [Institution of Mechanical Engineers](https://www.imeche.org) and part-time research supervisor at [The University of Edinburgh](https://www.eng.ed.ac.uk).
 
-
-This website documents my ongoing study within the evolving and overlapping fields of energy and the built environment - all opinions expressed are my own. 
+This website documents his ongoing work within the evolving and overlapping fields of energy and the built environment - all opinions expressed belong to the author. 
 
 
 
