@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Amad Kayani CEng, MIMechE, MSc, BEng (Hons), LEED AP (BD+C), CIBSE LCC"
+title: ""
 
 ---
 
@@ -23,7 +23,7 @@ Building Environment and Services Engineer, [Skelly and Couch](https://www.skell
 
 Graduate Mechanical Engineer, [Foster + Partners](https://www.fosterandpartners.com/) (2016 - 2017)
 
-### Professional Memberships and Working Groups
+### Professional Memberships 
 
 UK Engineering Council, Chartered Engineer (2021)
 
@@ -33,16 +33,20 @@ CIBSE Low Carbon Consultant (2021)
 
 LEED Accredited Professional in Building Design and Construction (2017)
 
+### Working Groups
+
 RdSAP Advisory Group Member, BRE (2022)
 
 [Retrofit in Heritage](https://www.cibsejournal.com/cibse-news/cibse-launches-new-retrofit-group/) Founding Committee Member, CIBSE (2022)
 
-UK Net Zero Carbon Buildings Standard - Heritage Sector Group Advisor (2022)
+UK Net Zero Carbon Buildings Standard - Heritage Sector Group Advisor and Energy Modeller (2022)
+
+CIBSE Knowledge Generation Panel Member (2022)
 
 ### Honours and Awards
 
 Spring Recognition Award for Exceptional Performance, Historic England (2022)
 
-Full MSc scholarship award, The Aziz Foundation (2019)
+Full MSc scholarship award (2019)
 
 
