@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: "Research Output"
+title: ""
 
 ---
 + 2022/10/30  **Conference Presentation (upcoming)**: Historic Building Climate Change Adaptation, CIBSE Build2Perform 2022.
