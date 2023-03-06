@@ -5,6 +5,8 @@ title: ""
 
 --- 
 
++ Upcoming  **Guidance**: 'Photovoltaic Systems in Heritage', Historic England Technical Advice.
+
 + 2022/03/18  **Article**: '[Overheating in Historic Buildings](https://www.paperturn-view.com/?pid=MjM239920)', Conservation and Heritage Journal, Issue 33, 2022.
   
 + 2021/07/25  **Guidance**: '[Overheating in Historic Buildings](https://historicengland.org.uk/advice/technical-advice/energy-efficiency-and-historic-buildings/overheating-historic-buldings/)', Historic England Technical Advice.
