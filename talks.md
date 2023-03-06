@@ -5,6 +5,9 @@ title: ""
 
 --- 
 
+
++ 2023/09/04  **Conference Workshop (upcoming)**: 'Overheating and Thermal Comfort in Historic Buildings: Predictive Modelling and Reality', [International Building Simulation Conference 2023](https://bs2023.org/index), Shanghai, China.
+
 + 2023/01/17  **Webinar**: '[Webinar on the Decarbonisation of Heating](https://historicengland.org.uk/services-skills/training-skills/training/webinars/recordings/webinar-on-the-decarbonisation-of-heating/)', Climate Change Mitigation. 
 
 + 2022/10/30  **Conference Presentation**: Historic Building Climate Change Adaptation, CIBSE Build2Perform 2022.
