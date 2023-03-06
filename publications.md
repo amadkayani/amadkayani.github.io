@@ -5,7 +5,9 @@ title: ""
 
 --- 
 
-+ Upcoming  **Guidance**: 'Photovoltaic Systems in Heritage', Historic England Technical Advice.
++ Upcoming  **Research Project**: 'Hydroelectric Power in Heritage Landscapes', Technical Report.
+
++ Upcoming  **Guidance**: 'Photovoltaic Systems in Historic Buildings', Historic England Technical Advice.
 
 + 2022/03/18  **Article**: '[Overheating in Historic Buildings](https://www.paperturn-view.com/?pid=MjM239920)', Conservation and Heritage Journal, Issue 33, 2022.
   
