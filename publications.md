@@ -20,4 +20,16 @@ title: ""
 + 2020/08/15  **Thesis**: '[Low Carbon Pathways to Net-zero Carbon Emissions for a Historic University Building Using an Energy Modelling Approach](https://drive.google.com/file/d/1F49WrjwxZFxpDhd9xzY4u9f6fsJZbElp/view?usp=sharing)'.
     
     
+#### Supervised Research Projects
+
+2022
++ **MSc Thesis**: 'Can installing renewable energy generation on historic buildings be preferable to retrofitting or demolition?', School of Engineering, University of Edinburgh.
++ **MSc Thesis**: 'Using the energy modelling approach to evaluate the low-carbon heating transition in the UK construction', School of Engineering, University of Edinburgh.
++ **MSc Thesis**: 'Impact of the introduction of mechanical ventilation on the energy consumption and carbon emissions of a Victorian dwelling', School of Engineering, University of Edinburgh.
+
+2021
+
++ **MSc Thesis**: 'Computational Study of Occupant Comfort and Overheating in the Retrofitted Historic Dwelling', School of Engineering, University of Edinburgh.
++ **MSc Thesis**: 'Developing an improved framework for low carbon retrofit of heritage buildings in the UK', School of Engineering, University of Edinburgh.
+
 
